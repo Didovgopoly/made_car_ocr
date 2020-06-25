@@ -1,4 +1,4 @@
-# made_car_ocr
+# Car plates ocr made kaggle challange
 
 # Детали решения
 
